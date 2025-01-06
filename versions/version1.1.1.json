@@ -1,0 +1,9 @@
+{
+  "version": "1.1.1",
+  "changeLog": [
+    "1. 【修复】水木社区启用了新的域名，原版本会无法登录；"
+  ],
+  "download": [
+    "https://www.simplestone.cn/jellyfish.apk"
+  ]
+}

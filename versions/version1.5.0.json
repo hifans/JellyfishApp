@@ -1,0 +1,11 @@
+{
+  "version": "1.5.0",
+  "changeLog": [
+    "1. 【修复】回复成功后不提示问题",
+    "2. 【修复】保存图片及分享异常问题",
+    "3. 【修复】后台切回闪屏的问题"
+  ],
+  "download": [
+    "https://www.simplestone.cn/jellyfish.apk"
+  ]
+}

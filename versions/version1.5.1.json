@@ -1,0 +1,10 @@
+{
+  "version": "1.5.1",
+  "changeLog": [
+    "1. 【修复】解析帖子时间错误",
+    "2. 【提升】优化了性能"
+  ],
+  "download": [
+    "https://www.simplestone.cn/jellyfish.apk"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1.1",
+  "changeLog": [
+    "1. 【改进】修复无法保存已读记录的BUG；",
+    "2. 【改进】 去除暂未实现功能"
+  ],
+  "download": [
+    "https://www.simplestone.cn/jellyfish.apk"
+  ]
+}
