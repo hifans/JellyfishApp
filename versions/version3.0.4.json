@@ -1,0 +1,14 @@
+{
+  "version": "3.0.4",
+  "changeLog": [
+    "〖新增〗回复、@我的和 Like 提醒支持“全部／未读”筛选。",
+    "〖优化〗完善 PC/WAP 提醒分页、已读状态与官网未读标记同步。",
+    "〖修复〗修复登录过期后账号状态不同步及用户资料、头像显示问题。",
+    "〖优化〗调整版面排序、提醒工具栏及检查更新提示。",
+    "〖修复〗改善帖子菜单、信箱提示和列表滚动体验。"
+  ],
+  "download": [
+    "https://www.pgyer.com/jellyfish",
+    "https://raw.githubusercontent.com/hifans/JellyfishApp/main/jellyfish.apk"
+  ]
+}
